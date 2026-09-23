@@ -1,0 +1,33 @@
+# Front Door AI Index — goatchat-ai-adaptive-plus-inc — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: goatchat-ai-adaptive-plus-inc
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: goat.ai
+  final_host: goat.ai
+  ownership: own
+  owner: goatchat-ai-adaptive-plus-inc
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 24
+  host_score: 24
+  density: 9.81
+  words: 2447
+  tiers:
+    agentic: 2
+    core: 12
+    model: 10
+  ambiguous: 9
+  top_terms:
+    agent: 9
+    LLMs: 8
+    Claude: 7
+    GPT: 2
+    ML: 2
+    prompts: 2
+    AI: 1
+    Gemini: 1
+    large language model: 1
