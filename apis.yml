@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/goatchat-ai-adaptive-plus-inc.png
-name: GoatChat AI - Adaptive Plus Inc.
+name: GoatChat AI
 description: GoatChat AI - Adaptive Plus Inc. is a company surfaced as a portfolio company of 500-global
   and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
   enrichment pipeline.
@@ -42,7 +42,7 @@ tags:
 - Conversational AI
 - Chatbots
 - LLM
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Artificial Intelligence
@@ -50,6 +50,7 @@ tags_raw:
 - Chatbot
 - LLM
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -66,3 +67,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: GoatChat AI - Adaptive Plus Inc.
